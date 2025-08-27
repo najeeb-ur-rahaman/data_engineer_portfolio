@@ -12,35 +12,37 @@ Welcome to my Data Engineering Portfolio. Here, I showcase my technical skills, 
 
 ## 🚀 Skills Snapshot
 
-- **Programming:** Python (Pandas, PySpark), SQL
+- **Programming:** Python (Pandas, PySpark), SQL, Dbt
 - **Data Engineering:** Data cleaning, transformation, pipeline design
-- **Cloud Tools:** Azure (ADF, Data Lake, Synapse)
+- **Cloud Tools:** Azure (ADF, Data Lake, Synapse), Snowflake
 - **Analytics:** Power BI, basic visualizations
-- **Other:** Git, Google Colab, Jupyter Notebooks
+- **Other:** Git, Google Colab, Jupyter Notebooks, Streamlit, Docker
 
 ---
 
 ## 📂 Projects
 
+### 📊 [Job Market Analysis Dashboard](https://github.com/najeeb-ur-rahaman/job_market_dashboard.git)
+
+An end-to-end data pipeline that collects, processes, stores, and visualizes UK tech job data using the Adzuna API. Built with Apache Airflow, Python, Neon (PostgreSQL), and Streamlit.
+
+**Tech Used:** Python, Airflow, Hugging Face, Neon postgreSQl, Streamlit, Docker
+
+---
+
+### 🛒 [E-commerce Analytics Pipeline](https://github.com/najeeb-ur-rahaman/ecommerce_analytics_pipeline.git)
+
+End-to-end data pipeline processing 100K+ Brazilian e-commerce orders. Built scalable ELT process with Snowflake, transformed raw data using dbt, and created interactive Power BI dashboards for business intelligence.
+
+**Tech Used:** Snowflake, dbt, Power BI, SQL, Data Modeling
+
+---
+
 ### 🏠 [UK Cost of Living Dashboard](https://github.com/najeeb-ur-rahaman/uk_cost_of_living_analysis.git)
 
-Tracks inflation and rental price trends across the UK using ONS datasets. Cleaned messy real-world data, transformed into structured format, and prepared for dashboard development.
+Beginner level project which tracks inflation and rental price trends across the UK using ONS datasets. Cleaned messy real-world data, transformed into structured format, and prepared for dashboard development.
 
 **Tech Used:** Python, Pandas, Google Colab, Public Data (ONS)
-
----
-
-### 📊 SQL Practice (Coming Soon)
-
-Real-world SQL exercises covering joins, aggregations, window functions, and analytics use cases.
-
----
-
-### 🐍 Python Exercises (Coming Soon)
-
-Mini Python projects demonstrating data manipulation, cleaning, and scripting.
-
----
 
 ## 🤝 Let's Connect
 
